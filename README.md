@@ -1,14 +1,6 @@
 # kaggle-house-prices
 Predicting house prices using machine learning with Kaggle dataset. Implemented Ridge regression with preprocessing.  Outputs were generated in Kaggle environment.
 
-## Project Structure
-kaggle-house-prices/
-├── data/
-├── house-price-github.ipynb
-├── house-price-kaggle.ipynb
-├── README.md
-└── LICENSE
-
 ## What I did
 - Handled missing values using imputation
 - Applied feature scaling (StandardScaler)
