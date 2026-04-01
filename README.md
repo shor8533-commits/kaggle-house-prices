@@ -30,4 +30,4 @@ kaggle-house-prices/
 
 - Public leaderboard score: 0.14994
 
-This result shows that the model captures the main patterns in the data, but there is still room for improvement through feature engineering and more advanced models.
+
