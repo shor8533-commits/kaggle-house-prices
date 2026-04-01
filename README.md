@@ -5,6 +5,7 @@ Predicting house prices using machine learning with Kaggle dataset. Implemented 
 kaggle-house-prices/
 ├── data/
 ├── house-price-github.ipynb
+├── house-price-kaggle.ipynb
 ├── README.md
 └── LICENSE
 
@@ -26,8 +27,7 @@ kaggle-house-prices/
 2. Open `house-price-github.ipynb`
 3. Run all cells
 
-## Result
+## Notes
 
-- Public leaderboard score: 0.14994
-
-
+- The GitHub repository contains a clean version of the code for readability and reproducibility.
+- For full outputs and execution results, please refer to the Kaggle notebook.
