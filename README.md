@@ -1,5 +1,5 @@
 # kaggle-house-prices
-Predicting house prices using machine learning with Kaggle dataset. Implemented Ridge regression with preprocessing and achieved a public leaderboard score of 0.14994.
+Predicting house prices using machine learning with Kaggle dataset. Implemented Ridge regression with preprocessing and achieved a public leaderboard score of 0.14994. Outputs were generated in Kaggle environment.
 
 ## What I did
 - Handled missing values using imputation
